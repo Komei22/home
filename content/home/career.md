@@ -10,7 +10,7 @@ date = 2019-01-23T00:00:00
 title = "経歴"
 
 # Order that this section will appear in.
-weight = 60
+weight = 10
 
 +++
 
