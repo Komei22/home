@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "野村孔命"
+name = "野村 孔命"
 
 # Is this the primary user of the site?
 superuser = true
@@ -13,7 +13,7 @@ superuser = true
 organizations = [ { name = "GMOペパボ株式会社 ペパボ研究所", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+# bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "softball.22.5113@gmail.com"
@@ -75,6 +75,8 @@ email = "softball.22.5113@gmail.com"
   link = "https://komei22.hatenablog.com/"
 
 +++
+
+1993年1月生まれ、熊本県出身。
 
 2017年3月に北九州市立大学大学院情報工学専攻修士課程を修了。2017年4月にGMOペパボ株式会社に新卒入社。
 
