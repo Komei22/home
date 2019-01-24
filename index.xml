@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>野村孔命のポートフォリオ on 野村孔命のポートフォリオ</title>
-    <link>/</link>
+    <link>https://komei22.github.io/home/</link>
     <description>Recent content in 野村孔命のポートフォリオ on 野村孔命のポートフォリオ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0900</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
