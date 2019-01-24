@@ -24,7 +24,7 @@
   weight = 4
 
 [[main]]
-  name = "連絡"
+  name = "連絡先"
   url = "#contact"
   weight = 6
 
