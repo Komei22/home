@@ -23,7 +23,7 @@ weight = 60
 
 ## 国際会議論文（査読なし）
 
-1. Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, PEVaS: Power and Execution-Time Variation-Aware Scheduling for MPSoC, TJCAS2016, 2016.
+1. Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, PEVaS: Power and Execution-Time Variation-Aware Scheduling for MPSoC, Taiwan And Japan Conference On Circuits And Systems (TJCAS'16), 2016.
 
 ## 国内論文（査読付き）
 
