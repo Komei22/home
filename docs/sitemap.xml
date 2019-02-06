@@ -4,14 +4,14 @@
     
     <url>
     
-      <loc>https://komei22.github.io/home/author/admin/</loc>
+      <loc>https://komei22.github.io/author/admin/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://komei22.github.io/home/author/</loc>
+      <loc>https://komei22.github.io/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -19,7 +19,7 @@
     
     <url>
     
-      <loc>https://komei22.github.io/home/authors/</loc>
+      <loc>https://komei22.github.io/authors/</loc>
       <priority>0</priority>
     </url>
     
@@ -27,7 +27,7 @@
     
     <url>
     
-      <loc>https://komei22.github.io/home/categories/</loc>
+      <loc>https://komei22.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -35,7 +35,7 @@
     
     <url>
     
-      <loc>https://komei22.github.io/home/publication_types/</loc>
+      <loc>https://komei22.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -43,7 +43,7 @@
     
     <url>
     
-      <loc>https://komei22.github.io/home/tags/</loc>
+      <loc>https://komei22.github.io/tags/</loc>
       <priority>0</priority>
     </url>
     
@@ -51,7 +51,7 @@
     
     <url>
     
-      <loc>https://komei22.github.io/home/</loc>
+      <loc>https://komei22.github.io/</loc>
       <lastmod>2019-01-22T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
