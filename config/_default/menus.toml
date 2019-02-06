@@ -19,7 +19,7 @@
 #   weight = 3
 
 [[main]]
-  name = "実績"
+  name = "論文・発表など"
   url = "#achievements"
   weight = 4
 
