@@ -42,6 +42,7 @@ weight = 60
 
 ## 口頭発表
 
+1. 野村 孔命, [不正クエリを検知するsqdを作った](https://speakerdeck.com/komei22/bu-zheng-kueriwojian-zhi-surusqdwozuo-tuta), [Fukuoka.go#13+Okayama.go](https://fukuokago.connpass.com/event/112073/), 2019年2月.
 1. 野村 孔命, [新卒研究員の研究開発 〜セキュアなWebサービスを目指して〜](https://speakerdeck.com/komei22/xin-zu-yan-jiu-yuan-falseyan-jiu-kai-fa-sekiyuanawebsabisuwomu-zhi-site), [けーすた#5](https://casestudy.connpass.com/event/95140/), 2018年8月.
 2. 野村 孔命, [キャリアキーノート](https://speakerdeck.com/komei22/kiyariakifalseto), 企業と研究について知る会@北九州市立大学, 2018年6月.
 3. 野村 孔命, 力武 健次, 松本 亮介, [Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-ita-sqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa-wsa2), [第2回Web System Architecture研究会＠福岡](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018年5月.
