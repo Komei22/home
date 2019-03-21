@@ -57,4 +57,4 @@ weight = 60
 
 1. ICFPT 2015 Design Competition, Takaaki Yahata, Saki Yamaguchi, Komei Nomura, and Yasuhiro Takashima, "K-Tra-X", 2015.
 2. [DA シンポジウム 2014 アルゴリズムデザインコンテスト](http://www.sig-sldm.org/DC2014/results.html),篠原 明日香, 野村 孔命, 手嶋 一夫, 髙島 康裕, 2014年.
-3. [HEART 2014 Design Contest: Blokus Duo](http://lut.eee.u-ryukyu.ac.jp/dc14/), Komei Nomura, Asuka Shinohara, Kazuo Teshima, Yasuhiro Takashima, "K.R.A.B.", Blokusduo engine with High-level synthesis, , 2014.
+3. [HEART 2014 Design Contest: Blokus Duo](http://lut.eee.u-ryukyu.ac.jp/dc14/), Komei Nomura, Asuka Shinohara, Kazuo Teshima, Yasuhiro Takashima, "K.R.A.B.", Blokusduo engine with High-level synthesis, 2014.
