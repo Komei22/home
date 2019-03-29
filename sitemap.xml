@@ -35,6 +35,15 @@
     
     <url>
     
+      <loc>https://komei22.github.io/</loc>
+      <lastmod>2019-01-22T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://komei22.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -44,15 +53,6 @@
     <url>
     
       <loc>https://komei22.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://komei22.github.io/</loc>
-      <lastmod>2019-01-22T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
     
