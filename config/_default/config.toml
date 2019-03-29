@@ -7,7 +7,7 @@
 publishDir = "docs"
 
 # Title of your site
-title = "野村孔命のポートフォリオ"
+title = "Komei Nomura"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
