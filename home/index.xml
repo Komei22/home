@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://komei22.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,7 +36,7 @@
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>https://komei22.github.io/home/achievements/</guid>
-      <description>国際会議論文（査読付き）  Ryota Tsuchihashi, Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, Task Allocation and Scheduling Optimization in the Heterogeneous Core System, 2018 New Generation of CAS (NGCAS), November, 2018. Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, PEVaS: Power and execution-time variation-aware scheduling for MPSoC, 2016 14th IEEE International New Circuits and Systems Conference (NEWCAS), June, 2016.  国際会議論文（査読なし）  Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, PEVaS_recalc: Extention of PEVaS for MPSoC, Taiwan And Japan Conference On Circuits And Systems (TJCAS&amp;rsquo;16), 2016.</description>
+      <description>国際会議論文（査読付き）  Komei Nomura, Kenji Rikitake, Ryosuke Matsumoto, Automatic Whitelist Generation for SQL Queries Using Web Application Tests, The 9th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2019), July 2019. (to appear) Ryota Tsuchihashi, Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, Task Allocation and Scheduling Optimization in the Heterogeneous Core System, 2018 New Generation of CAS (NGCAS), November, 2018. Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, PEVaS: Power and execution-time variation-aware scheduling for MPSoC, 2016 14th IEEE International New Circuits and Systems Conference (NEWCAS), June, 2016.</description>
     </item>
     
     <item>
