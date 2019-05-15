@@ -45,18 +45,19 @@ weight = 60
 
 ## 口頭発表
 
-1. 野村 孔命, [不正クエリを検知するsqdを作った](https://speakerdeck.com/komei22/bu-zheng-kueriwojian-zhi-surusqdwozuo-tuta), [Fukuoka.go#13+Okayama.go](https://fukuokago.connpass.com/event/112073/), 2019年2月.
-2. 野村 孔命, [新卒研究員の研究開発 〜セキュアなWebサービスを目指して〜](https://speakerdeck.com/komei22/xin-zu-yan-jiu-yuan-falseyan-jiu-kai-fa-sekiyuanawebsabisuwomu-zhi-site), [けーすた#5](https://casestudy.connpass.com/event/95140/), 2018年8月.
-3. 野村 孔命, [キャリアキーノート](https://speakerdeck.com/komei22/kiyariakifalseto), 企業と研究について知る会@北九州市立大学, 2018年6月.
+1. 野村孔命, [セキュリティWG成果報告](https://speakerdeck.com/komei22/pepacon-night-security-working-group-report), [ペパコンナイト](https://pepabo.connpass.com/event/128486/), 2019年5月.
+2. 野村 孔命, [不正クエリを検知するsqdを作った](https://speakerdeck.com/komei22/bu-zheng-kueriwojian-zhi-surusqdwozuo-tuta), [Fukuoka.go#13+Okayama.go](https://fukuokago.connpass.com/event/112073/), 2019年2月.
+3. 野村 孔命, [新卒研究員の研究開発 〜セキュアなWebサービスを目指して〜](https://speakerdeck.com/komei22/xin-zu-yan-jiu-yuan-falseyan-jiu-kai-fa-sekiyuanawebsabisuwomu-zhi-site), [けーすた#5](https://casestudy.connpass.com/event/95140/), 2018年8月.
+4. 野村 孔命, [キャリアキーノート](https://speakerdeck.com/komei22/kiyariakifalseto), 企業と研究について知る会@北九州市立大学, 2018年6月.
 
 
 ## 受賞
 
-1. [システム数理と応用(MSS)研究会 3月研究会 優秀発表賞](http://www.ieice.org/~mss/main_r.html), 野村 孔命, 髙島 康裕, 中村 祐一, 2016年3月.
-2. [DA シンポジウム 2014 アルゴリズムデザインコンテスト 特別賞](http://www.sig-sldm.org/DC2014/results.html), 篠原 明日香, 野村 孔命, 手嶋 一夫, 髙島 康裕, 2014年.
+1. 野村 孔命, 髙島 康裕, 中村 祐一, [システム数理と応用(MSS)研究会 3月研究会 優秀発表賞](http://www.ieice.org/~mss/main_r.html), 2016年3月.
+2. 篠原 明日香, 野村 孔命, 手嶋 一夫, 髙島 康裕, [DA シンポジウム 2014 アルゴリズムデザインコンテスト 特別賞](http://www.sig-sldm.org/DC2014/results.html), 2014年.
 
 ## コンテスト
 
-1. ICFPT 2015 Design Competition, Takaaki Yahata, Saki Yamaguchi, Komei Nomura, and Yasuhiro Takashima, "K-Tra-X", 2015.
-2. [DA シンポジウム 2014 アルゴリズムデザインコンテスト](http://www.sig-sldm.org/DC2014/results.html),篠原 明日香, 野村 孔命, 手嶋 一夫, 髙島 康裕, 2014年.
-3. [HEART 2014 Design Contest: Blokus Duo](http://lut.eee.u-ryukyu.ac.jp/dc14/), Komei Nomura, Asuka Shinohara, Kazuo Teshima, Yasuhiro Takashima, "K.R.A.B.", Blokusduo engine with High-level synthesis, 2014.
+1. Takaaki Yahata, Saki Yamaguchi, Komei Nomura, and Yasuhiro Takashima, ICFPT 2015 Design Competition, "K-Tra-X", 2015.
+2. 篠原 明日香, 野村 孔命, 手嶋 一夫, 髙島 康裕, [DA シンポジウム 2014 アルゴリズムデザインコンテスト](http://www.sig-sldm.org/DC2014/results.html), 2014年.
+3. Komei Nomura, Asuka Shinohara, Kazuo Teshima, Yasuhiro Takashima, "K.R.A.B.", [HEART 2014 Design Contest: Blokus Duo](http://lut.eee.u-ryukyu.ac.jp/dc14/), Blokusduo engine with High-level synthesis, 2014.
