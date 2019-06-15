@@ -32,15 +32,16 @@ weight = 60
 
 ## 国内論文（査読なし）
 
-1. 野村 孔命, 力武 健次, 松本 亮介,[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/CL-005.html), 第17回情報科学技術フォーラム（FIT2018）, 2018年9月. [[発表資料](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa)]
-2. 野村 孔命, 力武 健次, 松本 亮介, [Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=189328&item_no=1&page_id=13&block_id=8), インターネットと運用技術（IOT）, 2018年5月. [[発表資料](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-test)]
-3. 野村 孔命, 力武 健次, 松本 亮介, [Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://komei22.hatenablog.com/entry/2018/05/03/093752), [Web System Architecture研究会（WSA）](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018年3月. [[発表資料](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-ita-sqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa-wsa2)]
-4. 土橋 亮太 , 野村 孔命 , 高島 康裕 , 中村 祐一, [実行時間が変動するタスクに対するヘテロジーニアスコアでのTAS最適化手法](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=178688&item_no=1&page_id=13&block_id=8), 研究報告システムとLSIの設計技術（SLDM）, 2017年5月.
-5. Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, [PEVaS with impricit dependency after task allocation](http://www.ieice.org/jpn/event/program/2016S/Settings/ab/a_06_013.html), 2016年電子情報通信学会ソサイエティ大会, 2016年9月.
-6. 野村 孔命, 髙島 康裕, 中村 祐一, [タスクの実行時間とPEの消費電力のばらつきを考慮したスケジューリング手法](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=158235&item_no=1&page_id=13&block_id=8), システムとLSIの設計技術（SLDM）, 2016年3月.
-7. 野村 孔命, 髙島 康裕, 中村 祐一, [タスクの実行時間とPEの消費電力のばらつきを考慮したスケジューリング手法](http://www.ieice.org/ken/paper/20160303ubhH/), システム数理と応用研究会 (MSS), 2016年3月.
-8. 高島 康裕, 八幡 尚明, 山口 沙樹, 野村 孔命, [Mate構造を利用したTRAXソルバの実装](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=147066&item_no=1&page_id=13&block_id=8), システムとLSIの設計技術（SLDM）, 2016年1月.
-9. 野村 孔命, 高島 康裕, [実行時間がばらつくタスクに対するリストスケジューリング手法](https://www.ieice.org/ken/paper/20150304cBxu/), VLSI設計技術研究会（VLD）, 2015年3月.
+1. 野村 孔命, 力武 健次, 松本 亮介,[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](http://id.nii.ac.jp/1001/00197499/), 研究報告インターネットと運用技術（IOT）, 2019年6月. [[発表資料](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-tests)]
+2. 野村 孔命, 力武 健次, 松本 亮介,[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/CL-005.html), 第17回情報科学技術フォーラム（FIT2018）, 2018年9月. [[発表資料](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa)]
+3. 野村 孔命, 力武 健次, 松本 亮介, [Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](http://id.nii.ac.jp/1001/00189240/), 研究報告インターネットと運用技術（IOT）, 2018年5月. [[発表資料](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-test)]
+4. 野村 孔命, 力武 健次, 松本 亮介, [Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://komei22.hatenablog.com/entry/2018/05/03/093752), [Web System Architecture研究会（WSA）](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018年3月. [[発表資料](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-ita-sqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa-wsa2)]
+5. 土橋 亮太 , 野村 孔命 , 高島 康裕 , 中村 祐一, [実行時間が変動するタスクに対するヘテロジーニアスコアでのTAS最適化手法](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=178688&item_no=1&page_id=13&block_id=8), 研究報告システムとLSIの設計技術（SLDM）, 2017年5月.
+6. Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, [PEVaS with impricit dependency after task allocation](http://www.ieice.org/jpn/event/program/2016S/Settings/ab/a_06_013.html), 2016年電子情報通信学会ソサイエティ大会, 2016年9月.
+7. 野村 孔命, 髙島 康裕, 中村 祐一, [タスクの実行時間とPEの消費電力のばらつきを考慮したスケジューリング手法](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=158235&item_no=1&page_id=13&block_id=8), システムとLSIの設計技術（SLDM）, 2016年3月.
+8. 野村 孔命, 髙島 康裕, 中村 祐一, [タスクの実行時間とPEの消費電力のばらつきを考慮したスケジューリング手法](http://www.ieice.org/ken/paper/20160303ubhH/), システム数理と応用研究会 (MSS), 2016年3月.
+9. 高島 康裕, 八幡 尚明, 山口 沙樹, 野村 孔命, [Mate構造を利用したTRAXソルバの実装](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=147066&item_no=1&page_id=13&block_id=8), システムとLSIの設計技術（SLDM）, 2016年1月.
+10. 野村 孔命, 高島 康裕, [実行時間がばらつくタスクに対するリストスケジューリング手法](https://www.ieice.org/ken/paper/20150304cBxu/), VLSI設計技術研究会（VLD）, 2015年3月.
 
 
 ## 口頭発表
