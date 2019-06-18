@@ -1,13 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Komei Nomura on Komei Nomura</title>
+    <title>Komei Nomura</title>
     <link>https://komei22.github.io/</link>
-    <description>Recent content in Komei Nomura on Komei Nomura</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on Komei Nomura</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0900</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	    <atom:link href="https://komei22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

@@ -4,12 +4,27 @@
     <title>Authors on Komei Nomura</title>
     <link>https://komei22.github.io/authors/</link>
     <description>Recent content in Authors on Komei Nomura</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>ja-JP</language>
     <copyright>&amp;copy; 2019</copyright>
     
-	<atom:link href="https://komei22.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://komei22.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://komei22.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://komei22.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;1993年1月生まれ、熊本県出身。&lt;/p&gt;
+
+&lt;p&gt;2017年3月に北九州市立大学大学院情報工学専攻修士課程を修了。2017年4月にGMOペパボ株式会社に新卒入社。&lt;/p&gt;
+
+&lt;p&gt;大学時代は、学士・修士課程を通して、集積回路の自動設計やマルチプロセッサシステムに関する研究に取り組む。
+研究に取り組む過程で研究成果を学術的な成果にとどめるのではなく実際のサービスに還元したいと考えるようになり、研究開発した技術を実際のシステムとして実装・提供することができるペパボ研究所に興味を持つ。&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
