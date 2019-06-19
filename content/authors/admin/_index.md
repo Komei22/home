@@ -26,15 +26,15 @@ email = "softball.22.5113@gmail.com"
 # ]
 
 # List qualifications (such as academic degrees)
-# [[education.courses]]
-#   course = "国際環境工学研究科 情報工学選考 修士課程"
-#   institution = "北九州市立大学"
-#   year = 2017
-#
-# [[education.courses]]
-#   course = "国際環境工学部 情報メディア工学科 学士課程"
-#   institution = "北九州市立大学"
-#   year = 2015
+ [[education.courses]]
+   course = "国際環境工学研究科 情報工学専攻 修士課程"
+   institution = "北九州市立大学大学院"
+   year = 2017
+
+ [[education.courses]]
+   course = "国際環境工学部 情報メディア工学科 学士課程"
+   institution = "北九州市立大学"
+   year = 2015
 
 # Social/Academic Networking
 #
@@ -81,5 +81,5 @@ email = "softball.22.5113@gmail.com"
 2017年3月に北九州市立大学大学院情報工学専攻修士課程を修了。2017年4月にGMOペパボ株式会社に新卒入社。
 
 大学時代は、学士・修士課程を通して、集積回路の自動設計やマルチプロセッサシステムに関する研究に取り組む。
-研究に取り組む過程で研究成果を学術的な成果にとどめるのではなく実際のサービスに還元したいと考えるようになり、研究開発した技術を実際のシステムとして実装・提供することができるペパボ研究所に興味を持つ。
+研究に取り組む過程で研究成果を学術的な成果にとどめるのではなく実際のサービスに還元したいと考えるようになり、研究開発した技術を実際のシステムとして実装・提供することができるペパボ研究所に興味をもち入社した。
 
