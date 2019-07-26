@@ -17,9 +17,9 @@ weight = 60
 
 ## 国際会議論文（査読付き）
 
-1. Komei Nomura, Kenji Rikitake, Ryosuke Matsumoto, Automatic Whitelist Generation for SQL Queries Using Web Application Tests, The 9th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2019), July 2019. (to appear)
-1. Ryota Tsuchihashi, Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, [Task Allocation and Scheduling Optimization in the Heterogeneous Core System](https://ieeexplore.ieee.org/abstract/document/8572125), 2018 New Generation of CAS (NGCAS), November, 2018.
-1. Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, [PEVaS: Power and execution-time variation-aware scheduling for MPSoC](https://ieeexplore.ieee.org/abstract/document/7604827), 2016 14th IEEE International New Circuits and Systems Conference (NEWCAS), June, 2016.
+1. Komei Nomura, Kenji Rikitake, Ryosuke Matsumoto, [Automatic Whitelist Generation for SQL Queries Using Web Application Tests](https://ieeexplore.ieee.org/abstract/document/8753976), The 9th IEEE International COMPSAC Workshop on Network Technologies for Security, Administration and Protection (NETSAP 2019), July 2019. [[slide](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-tests-a0dccaf8-0d11-420e-a332-dd11e67d2dfa)]
+2. Ryota Tsuchihashi, Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, [Task Allocation and Scheduling Optimization in the Heterogeneous Core System](https://ieeexplore.ieee.org/abstract/document/8572125), 2018 New Generation of CAS (NGCAS), November, 2018.
+3. Komei Nomura, Yasuhiro Takashima, Yuichi Nakamura, [PEVaS: Power and execution-time variation-aware scheduling for MPSoC](https://ieeexplore.ieee.org/abstract/document/7604827), 2016 14th IEEE International New Circuits and Systems Conference (NEWCAS), June, 2016.
 
 
 
