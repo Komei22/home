@@ -70,7 +70,17 @@ email = "softball.22.5113@gmail.com"
   link = "https://github.com/Komei22"
 
 [[social]]
-  icon = "link"
+  icon = "instagram"
+  icon_pack = "fab"
+  link = "https://www.instagram.com/komei_22"
+
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=QHOJyAYAAAAJ&hl=ja&authuser=1"
+
+[[social]]
+  icon = "blog"
   icon_pack = "fa"
   link = "https://komei22.hatenablog.com/"
 
