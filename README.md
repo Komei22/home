@@ -8,7 +8,7 @@ git clone --recursive git@github.com:Komei22/komei22.github.io.git
 
 ## Update pages
 ```
-git push origin source && git subtree push --prefix docs/ origin master
+./deploy.sh
 ```
 
 ## License
