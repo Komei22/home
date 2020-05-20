@@ -33,6 +33,7 @@ weight = 60
 
 ## 国内論文（査読なし）
 
+1. 野村 孔命, 三宅 悠介, [ハンドメイド作品を対象としたECサイトにおける単語の出現頻度を用いた稀覯品の検出](http://id.nii.ac.jp/1001/00204466/), 研究報告インターネットと運用技術（IOT）, 2020年5月. [[発表資料](https://speakerdeck.com/komei22/detection-of-rare-works-using-term-frequency-on-electronic-commerce-site-for-trading-handmade-works)]
 1. 野村 孔命, 力武 健次, 松本 亮介,[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](http://id.nii.ac.jp/1001/00197499/), 研究報告インターネットと運用技術（IOT）, 2019年6月. [[発表資料](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-tests)]
 2. 野村 孔命, 力武 健次, 松本 亮介,[Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/CL-005.html), 第17回情報科学技術フォーラム（FIT2018）, 2018年9月. [[発表資料](https://speakerdeck.com/komei22/webapurikesiyontesutowoyong-itasqlkuerifalsehowaitorisutozi-dong-zuo-cheng-shou-fa)]
 3. 野村 孔命, 力武 健次, 松本 亮介, [Webアプリケーションテストを用いたSQLクエリのホワイトリスト自動作成手法](http://id.nii.ac.jp/1001/00189240/), 研究報告インターネットと運用技術（IOT）, 2018年5月. [[発表資料](https://speakerdeck.com/komei22/automatic-whitelist-generation-for-sql-queries-using-web-application-test)]
