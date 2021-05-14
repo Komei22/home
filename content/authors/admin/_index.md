@@ -10,7 +10,7 @@ superuser = true
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "GMOペパボ株式会社 ペパボ研究所", url = "" } ]
+organizations = [ { name = "さくらインターネット株式会社", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 # bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -88,8 +88,8 @@ email = "softball.22.5113@gmail.com"
 
 1993年1月生まれ、熊本県出身。
 
-2017年3月に北九州市立大学大学院情報工学専攻修士課程を修了。2017年4月にGMOペパボ株式会社に新卒入社。
+2017年3月に北九州市立大学大学院情報工学専攻修士課程を修了。2017年4月にGMOペパボ株式会社に新卒入社。現在はさくらインターネット株式会社で開発業務に従事。
 
 大学時代は、学士・修士課程を通して、集積回路の自動設計やマルチプロセッサシステムに関する研究に取り組む。
-研究に取り組む過程で研究成果を学術的な成果にとどめるのではなく実際のサービスに還元したいと考えるようになり、研究開発した技術を実際のシステムとして実装・提供することができるペパボ研究所に興味を持つ。
-
+GMOペパボ株式会社では、データベースセキュリティやECサイトからの稀覯品検出の研究に従事。
+その後、さくらインターネットに入社しクラウドの開発業務に従事。
