@@ -3,6 +3,7 @@
 ## Get start
 
 ```
+brew install hugo
 git clone --recursive git@github.com:Komei22/komei22.github.io.git
 ```
 
